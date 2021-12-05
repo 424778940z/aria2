@@ -1,6 +1,15 @@
 aria2 - The ultra fast download utility
 =======================================
 
+About the fork
+--------------
+The fork contains some patches to enhance aria2 including:
+
+* UDP SOCSK5 proxy support for BT UDP tracker and DHT connections.
+  Ref: https://github.com/aria2/aria2/pull/1857
+
+The following is the original README:
+
 Disclaimer
 ----------
 This program comes with no warranty.
